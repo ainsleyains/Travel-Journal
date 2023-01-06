@@ -1,5 +1,5 @@
-start with scratch - 1. create custom reusable components.
-                     2. mapping components.
+start with scratch - 1. Creating custom reusable components.
+                     2. Mapping components.
 
 
 photo: https://unsplash.com/photos/VlH2eHyE_50,
