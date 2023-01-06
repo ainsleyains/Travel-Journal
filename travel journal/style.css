@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 550px;
+    
+}
+
+nav {
+    height: 55px;
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-content:center;
+    margin-bottom: 50px;
+   
+}
+
+.logo {
+    width:45px;
+    height: 45px;
+    object-fit: contain;
+    padding-top: 8px
+    
+    
+}
+
+.logo-text {
+    color:white;
+    font-size: 1.1rem;
+    line-height: 5px;
+    letter-spacing: -0.075em;
+    /* text-align: center; */
+    
+}
+
+.card{
+    display:flex;
+    padding:20px;
+    width: 470px;
+    height: 168px;
+    margin-bottom: 50px;
+    
+}
+
+.content {
+    display:flex;
+    flex-direction: column;
+    padding-left:15px;
+}
+
+.title {
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    
+    
+}
+
+.title > a , .title > h4 {
+    font-size: 0.7rem;
+    margin: 0;
+    padding: 0 5px;   
+}
+
+.title > h4 {
+    letter-spacing: 0.17em;
+    text-transform: uppercase;
+}
+
+.title > a {
+    color:#918E9B;
+    text-decoration: none;
+}
+
+.title > a:hover {
+  text-decoration: underline;
+
+}
+
+
+
+.imgs{
+    width: 125px;
+    height: 168px;
+    object-fit: cover;
+    object-position: 60%;
+}
+
+.gps {
+    width: 15px;
+    height: 15px;
+    
+}
+
+.header {
+    font-weight: 700;
+    font-size: 2rem;
+    color: #2B283A;
+    margin: 0;
+    
+}
+
+.date {
+    font-size: 0.7rem; 
+    margin: 0;
+    padding-top: 20px;
+}
+
+.text {
+    font-size: 0.7rem;
+    margin:0;
+    padding-top: 10px;
+    line-height: 15.36px;
+    
+    
+
+}
