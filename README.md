@@ -1,4 +1,5 @@
-start with scratch - data array, use .map() & props and styled & polished.
+start with scratch - 1. create custom reusable components.
+                     2. mapping components.
 
 
 photo: https://unsplash.com/photos/VlH2eHyE_50,
